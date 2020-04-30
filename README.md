@@ -25,7 +25,6 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 09/06/2020 → 15/06/2020  |  Dynamics and control                                        |  Prof Hari, Prof Spandan, Suraj, Viswa  |  4         |
 17/06/2020 → 18/06/2020  |  Visual Servoing                                             |  Abhinav, Harish                        |  2         |
 19/06/2020               |  Reinforcement Learning                                      |  Kaustubh                               |  1         |
-                         |  Hands-on sessions                                           |                                         |            |
 
 
 ## Topics
