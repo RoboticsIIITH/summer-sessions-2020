@@ -1,14 +1,11 @@
 # Summer Sessions 2020
 Series of online lectures and hands-on tutorials organized to familiarize new lab entrants with the fundamental areas of robotics research.
 
-- Notion [Link](https://www.notion.so/RRC-Summer-School-2020-0e807432eb2d4cc2af4f8a1c09f52bbd) 
-- GitHub Repo [Link](https://github.com/RoboticsIIITH/summer-sessions-2020)
-
 ## Where and When?
 * Microsoft Teams. Timings: 3 pm - 4:30 pm (tentative)
 
 ## Tentative Schedule
-* UPDATE: The below schedule will be pushed by 3-4 days and will likely start on 12/5. Because of current circumstances, we will only be able to confirm that only around 8th. Follow this page and check back on 8th for final schedule. However, everything else will remain the same.
+* UPDATE: The below schedule will be pushed by 3-4 days and will likely start on 12/5. Because of current circumstances, we will only be able to confirm that only around 8th. [Follow](https://github.com/RoboticsIIITH/summer-sessions-2020/commits/master.atom) this page or check back on 8th for final schedule. However, everything else will remain the same.
 
 
 ﻿Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
