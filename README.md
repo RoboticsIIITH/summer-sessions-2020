@@ -1,16 +1,15 @@
 # Summer Sessions 2020
 Series of online lectures and hands-on tutorials organized to familiarize new lab entrants with the fundamental areas of robotics research.
 
-- Notion [Link](https://www.notion.so/RRC-Summer-School-2020-0e807432eb2d4cc2af4f8a1c09f52bbd) (Up-to-date)
+- Notion [Link](https://www.notion.so/RRC-Summer-School-2020-0e807432eb2d4cc2af4f8a1c09f52bbd) 
 - GitHub Repo [Link](https://github.com/RoboticsIIITH/summer-sessions-2020)
 
 ## Where and When?
-* Microsoft Teams, timings to be confirmed soon.
-
+* Microsoft Teams. Timings: 3 pm - 4:30 pm (tentative)
 
 ## Tentative Schedule
+* UPDATE: The below schedule will be pushed by 3-4 days and will likely start on 12/5. Because of current circumstances, we will only be able to confirm that only around 8th. Follow this page and check back on 8th for final schedule. However, everything else will remain the same.
 
-* Starts on 9/5 and ends on 19/6.
 
 ﻿Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
 -------------------------|--------------------------------------------------------------|-----------------------------------------|------------|----------
@@ -30,12 +29,19 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 ## Topics
 
 * Math review
-* Rigid Body Transformations
-* Camera Calibration, Multi-view Geometry, Bundle Adjustment
+    * Fundamentals of Linear Algebra, Calculus and Optimization: Vectors, Matrices, Vector and Matrix operations, Important matrices, Matrix decompositions, Gradient, Hessian, Linear and non-linear least squares, Unconstrained optimization methods, Lagrange multipliers.
+* Homogeneous coordinates and Rigid Body Transformations
+    * Homogeneous coordinates, representing lines-points-planes, Fundamental Theorem of Projective Geometry, Rotation matrices, Homogeneous Transformation matrices, Rigid Body transformation, Composition of transformation by current-axis and fixed-axis conventions.
+* Geometry of Computer Vision:
+    * Projective geometry, Camera modelling, Camera Calibration, Epipolar geometry, Triangulation, Resection, Structure from Motion (Bundle Adjustment), Visual odometry.
 * State Estimation
+    * Bayes Filter, Kalman Filter, Extended Kalman Filter.
 * Deep Learning
+    * Basic review of ML and forward propagation, Back Propagation, CNN & Optimization Methods, CNN Architectures, RNNs/LSTMS, object detection, PyTorch Introduction and Coding.
 * SLAM, Pose Graph Optimization
+    * What is SLAM, SOTA Methods, current state of SLAM, Introduction to pose graph optimization.
 * Motion Planning and Trajectory Generation
+    * Robot modelling, Motion Planning overview, Sampling based planning, Variational methods for planning.
 * Dynamics and control
 * Visual servoing
 * Reinforcement Learning
