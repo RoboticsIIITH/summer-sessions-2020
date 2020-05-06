@@ -2,10 +2,10 @@
 Series of online lectures and hands-on tutorials organized to familiarize new lab entrants with the fundamental areas of robotics research.
 
 ## Where and When?
-* Microsoft Teams. Timings: 3 pm - 4:30 pm (tentative)
+* Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
 
 ## Tentative Schedule
-* UPDATE: The below schedule will be pushed by 3-4 days and will likely start on 12/5. Because of current circumstances, we will only be able to confirm that only around 8th. [Follow](https://github.com/RoboticsIIITH/summer-sessions-2020/commits/master.atom) this page or check back on 8th for final schedule. However, everything else will remain the same.
+* UPDATE: The below schedule will be pushed by 3-4 days and will likely start on 12/5. Because of current circumstances, we will only be able to confirm that only around 8th. Check back on 8th for final schedule (You will be mailed when it is confirmed). However, the sequence of the sessions will remain the same.
 
 
 ﻿Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
@@ -47,8 +47,70 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 
 ## Assignments
 
+### Plan for assignments/quizzes
+
+If an assignment is given for a particular concept, we have given a break of 1 day before next concept begins for solving this assignment. Also, the solutions to this assignment will be discussed at the end of next session, for example math review assignment will be discussed at the end of 3rd session (or sometimes at the beginning of the next session in which case the session will start early). But the discussion will be brief for about 30 minutes and you will not be able to follow if you haven't solved the assignment, so please solve it beforehand. 
+
+The presenter will confirm the assignment discussion session timings at the end of his sessions.
+
+Regarding quizzes, they will be at the end of a particular session itself to gauge how much you have learned during that session.
+
+* Note: Assignments and/or quizzes are not being held for every topic, check the below tables for more details. 
+
+### Assignment Schedule
+| Assignment No. | Duration for solving |       Topic      |       File Link        | Date of discussion|
+|:--------------:|:------------:|:----------------:|:------------------:|:-------:|
+|1 | 10-11/05 | Linear Algebra & Calculus| TBD | 12/05 |
+|2 & 3| TBD | Deep Learning | TBD | TBD |
+|4 | TBD | ROS | TBD | TBD |
+|5 | TBD | Transformations | TBD | TBD |
+|6 | TBD | Projective Geometry  | TBD | TBD |
+|7-8 | TBD | MVG + BA | TBD | TBD |
+|9 | TBD | State Estimation (ST)  | TBD | TBD |
+|10| TBD | Visual Servoing | TBD | TBD |
+
+ST stands for Short assignment.
+
+* Note: Do not get intimidated by looking at the volume of the assignments, we have designed the schedule ensuring that you have enough time between sessions to solve each assignment.
+
+### Quiz Schedule
+(At the end of a particular session)
+
+| Quiz No. |     Topic      |
+|:--------------:|:------------:|
+|1-4 | Deep Learning| 
+|5-6 | Transformations and Projective Geometry| 
+|7-8 | MVG|
+
 ## References
 
+TBD
+
 ## Contact
+* General
+>Sai Shubodh <p.saishubodh@gmail.com><br />
+* Maths (Linear Algebra, Calculus)
+>Ayyappa VVSST <vvsst.ayyappa@research.iiit.ac.in><br />
+* Deep Learning
+>S Shashank <shashank.s@research.iiit.ac.in><br />
+* ROS
+>Udit Singh Parihar <udit.singh@research.iiit.ac.in><br />
+* Rigid Body Transformations, Projective Geometry
+>AadilMehdi Sanchawala <aadilmehdi.s@students.iiit.ac.in><br />
+* Camera Calibration, Multiview Geometry, Bundle Adjustment
+>Sai Shubodh <p.saishubodh@gmail.com><br />
+>RAHUL SAJNANI <rahul.sajnani@research.iiit.ac.in><br />
+* State Estimation
+> Abhinav Gupta <abhinav.g@students.iiit.ac.in><br />
+* Motion Planning and Trajectory Generation	
+> Josyula Krishna <josyula008@gmail.com><br />
+> Kaustab Pal <kaustab21@gmail.com><br />
+* Dynamics and control	
+> Suraj <suraj2596@gmail.com><br />
+> Viswanarayan <viswanarayanan.vijai@gmail.com><br />
+* Visual Servoing
+> Harish Y V S <harish.y@research.iiit.ac.in><br />
+* Reinforcement Learning
+>kaustubh mani <kaustubh3095@gmail.com><br />
 
 
