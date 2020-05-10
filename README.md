@@ -5,8 +5,7 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 * Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
 
 ## Tentative Schedule
-* UPDATE: The below schedule will be pushed by 3-4 days and will likely start on 12/5. Because of current circumstances, we will only be able to confirm that only around 8th. Check back on 8th for final schedule (You will be mailed when it is confirmed). However, the sequence of the sessions will remain the same.
-
+* UPDATE: The below schedule will be pushed by 3-4 days and will likely start around 13/5. Because of the current circumstances, it will take a few days to confirm the final starting date (You will be mailed when it is confirmed). However, the rest of the schedule such as the sequence of the sessions will remain the same. Please keep checking this page or you can subscribe to [RSS feed](https://github.com/RoboticsIIITH/summer-sessions-2020/commits/master.atom) for real time updates. Please bear with us in these uncertain times.
 
 ﻿Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
 -------------------------|--------------------------------------------------------------|-----------------------------------------|------------|----------
