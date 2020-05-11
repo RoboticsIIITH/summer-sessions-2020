@@ -7,10 +7,10 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 ## Tentative Schedule
 * UPDATE: The below schedule will be pushed by 3-4 days and will likely start around 13/5. Because of the current circumstances, it will take a few days to confirm the final starting date (You will be mailed when it is confirmed). However, the rest of the schedule such as the sequence of the sessions will remain the same. Please keep checking this page or you can subscribe to [RSS feed](https://github.com/RoboticsIIITH/summer-sessions-2020/commits/master.atom) for real time updates. Please bear with us in these uncertain times.
 
-﻿Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
+Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
 -------------------------|--------------------------------------------------------------|-----------------------------------------|------------|----------
 09/05/2020 → 10/05/2020  |  Math review                                                 |  Ayyappa                                |  2         | [Ref: 2019 slides](lecture-slides/maths/)
-12/05/2020 → 16/05/2020  |  Deep Learning                                               |  Aadil, Shashank                        |  4         |
+12/05/2020 → 16/05/2020  |  Deep Learning                                               |  Aadil, Shashank                        |  4         | [Ref: Slides](lecture-slides/deep_learning)
 18/05/2020               |  ROS                                                         |  Udit                                   |  1         |
 20/05/2020 → 21/05/2020  |  Rigid Body Transformations                                  |  Aadil, Shubodh                         |  2         |
 23/05/2020 → 30/05/2020  |  Camera Calibration, Multi-view Geometry, Bundle Adjustment  |  Rahul, Shubodh                         |  5         |
