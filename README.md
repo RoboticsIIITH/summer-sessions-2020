@@ -9,8 +9,8 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 
 Tentative Dates         |  Name                                                        |  Presenter                              |  Sessions  |  Material
 -------------------------|--------------------------------------------------------------|-----------------------------------------|------------|----------
-09/05/2020 → 10/05/2020  |  Math review                                                 |  Ayyappa                                |  2         | [Ref: 2019 slides](lecture-slides/maths/)
-12/05/2020 → 16/05/2020  |  Deep Learning                                               |  Aadil, Shashank                        |  4         | [Ref: Slides](lecture-slides/deep_learning)
+09/05/2020 → 10/05/2020  |  Math review                                                 |  Ayyappa                                |  2         | [Ref: math slides](lecture-slides/maths/)
+12/05/2020 → 16/05/2020  |  Deep Learning                                               |  Aadil, Shashank                        |  4         | [Ref: DL slides](lecture-slides/deep_learning)
 18/05/2020               |  ROS                                                         |  Udit                                   |  1         |
 20/05/2020 → 21/05/2020  |  Rigid Body Transformations                                  |  Aadil, Shubodh                         |  2         |
 23/05/2020 → 30/05/2020  |  Camera Calibration, Multi-view Geometry, Bundle Adjustment  |  Rahul, Shubodh                         |  5         |
