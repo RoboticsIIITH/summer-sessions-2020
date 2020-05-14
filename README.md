@@ -1,6 +1,21 @@
 # Summer Sessions 2020
 Series of online lectures and hands-on tutorials organized to familiarize new lab entrants with the fundamental areas of robotics research.
 
+# Table Of Contents
+* [Summer Sessions 2020](#summer-sessions-2020)
+  * [Where and When?](#where-and-when?)
+  * [Tentative Schedule](#tentative-schedule)
+  * [Topics](#topics)
+  * [Assignments](#assignments)
+    * [Plan for assignments/quizzes](#plan-for-assignments/quizzes)
+      * [Assignments](#assignments)
+      * [Quizzes](#quizzes)
+    * [Assignment Schedule](#assignment-schedule)
+    * [Quiz Schedule](#quiz-schedule)
+  * [References](#references)
+  * [Contact](#contact)
+
+
 ## Where and When?
 * Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
 
