@@ -5,21 +5,37 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 * Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
 
 ## Tentative Schedule
-* UPDATE: The below schedule will be pushed by a week and will likely start on 16/5 or 18/5. Because of the current circumstances, it will take a few days to confirm the final starting date (You will be mailed when it is confirmed). However, the rest of the schedule such as the sequence of the sessions will remain the same. Please keep checking this page or you can subscribe to [RSS feed](https://github.com/RoboticsIIITH/summer-sessions-2020/commits/master.atom) for real time updates. Please bear with us in these uncertain times.
 
-Tentative Dates (SEE UPDATE ABOVE)         |  Name                                                        |  Presenter                              |  Sessions  |  Material
--------------------------|--------------------------------------------------------------|-----------------------------------------|------------|----------
-09/05/2020 → 10/05/2020  |  Math review                                                 |  Ayyappa                                |  2         | [Ref: math slides](lecture-slides/maths/)
-12/05/2020 → 16/05/2020  |  Deep Learning                                               |  Aadil, Shashank                        |  4         | [Ref: DL slides](lecture-slides/deep_learning)
-18/05/2020               |  ROS                                                         |  Udit                                   |  1         |
-20/05/2020 → 21/05/2020  |  Rigid Body Transformations                                  |  Aadil, Shubodh                         |  2         |
-23/05/2020 → 30/05/2020  |  Camera Calibration, Multi-view Geometry, Bundle Adjustment  |  Rahul, Shubodh                         |  5         |
-01/06/2020               |  State Estimation                                            |  Abhinav                                |  1         |
-02/06/2020 → 03/06/2020  |  SLAM, SOTA Methods, Pose Graph Optimization                 |  Prof Madhav, Shubodh, Udit             |  2         |
-05/06/2020 → 07/06/2020  |  Motion Planning and Trajectory Generation                   |  Josyula, Kaustab                       |  3         |
-09/06/2020 → 15/06/2020  |  Dynamics and control                                        |  Prof Hari, Prof Spandan, Suraj, Viswa  |  4         |
-17/06/2020 → 18/06/2020  |  Visual Servoing                                             |  Abhinav, Harish                        |  2         |
-19/06/2020               |  Reinforcement Learning                                      |  Kaustubh                               |  1         |
+ Dates |  Topics                                             |  Presenter       |  Slides         | Material
+-------|-----------------------------------------------------|------------------|-----------------|----------
+18/05  | Intro to sessions, Math review (LA)                 |  Ayyappa         | [Ref: math slides](lecture-slides/maths/)
+19/05  |  Math review (Calculus & Optimization)              | Ayyappa         | [Ref: math slides](lecture-slides/maths/)
+21/05  |  Deep Learning 1                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+22/05  |  Deep Learning 2                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+23/05  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+24/05  |  Deep Learning 4                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+25/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+27/05  |  ROS                                                |  Udit           |  
+29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
+30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
+01/06  |  Multi-view Geometry 1                              | Shubodh,  Rahul |  
+02/06  |  Multi-view Geometry 2                              | Shubodh,  Rahul |  
+03/06  |  Multi-view Geometry 3                              | Shubodh,  Rahul |  
+04/06  |  Multi-view Geometry 4                              | Shubodh,  Rahul |  
+05/06  |  Multi-view Geometry 5                              | Shubodh,  Rahul |  
+07/06  |  State Estimation                                   | Abhinav         |  
+09/06  |  SLAM Frontend, SOTA Methods                        | Prof Madhav, Udit, Shubodh |  
+10/06  |  SLAM Backend, Pose Graph Optimization              | Prof Madhav, Udit, Shubodh |  
+12/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  
+13/06  |  Motion Planning & Trajectory Generation 2          |  Josyula, Kaustab        |  
+14/06  |  Motion Planning & Trajectory Generation 3          |  Josyula, Kaustab        |  
+16/06  |  Dynamics and control  1                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+17/06  |  Dynamics and control  2                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+18/06  |  Dynamics and control  3                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+19/06  |  Dynamics and control  4                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+21/06  |  Visual Servoing 1                                  |  Harish, Pushkal                        |  
+22/06  |  Visual Servoing 2                                  |  Harish, Pushkal                        |  
+24/06  |  Reinforcement Learning                             |  Kaustubh                               |  
 
 
 ## Topics
@@ -47,28 +63,27 @@ Tentative Dates (SEE UPDATE ABOVE)         |  Name                              
 ## Assignments
 
 ### Plan for assignments/quizzes
+#### Assignments
+* Note: Assignments and/or quizzes are not being held for every topic, check the below tables for more details. 
 
 If an assignment is given for a particular concept, we have given a break of 1 day before next concept begins for solving this assignment. Also, the solutions to this assignment will be discussed at the end of next session, for example math review assignment will be discussed at the end of 3rd session (or sometimes at the beginning of the next session in which case the session will start early). But the discussion will be brief for about 30 minutes and you will not be able to follow if you haven't solved the assignment, so please solve it beforehand. 
 
-The presenter will confirm the assignment discussion session timings at the end of his sessions.
-
+The presenter will confirm the assignment discussion session timings for his specific assignment at the end of his sessions.
+#### Quizzes
 Regarding quizzes, they will be at the end of a particular session itself to gauge how much you have learned during that session.
 
-* Note: Assignments and/or quizzes are not being held for every topic, check the below tables for more details. 
 
 ### Assignment Schedule
 | Assignment No. | Duration for solving |       Topic      |       File Link        | Date of discussion|
 |:--------------:|:------------:|:----------------:|:------------------:|:-------:|
-|1 | 10-11/05 | Linear Algebra & Calculus| TBD | 12/05 |
+|1 | 19-20/05 | Linear Algebra & Calculus| TBD | 21/05 |
 |2 & 3| TBD | Deep Learning | TBD | TBD |
 |4 | TBD | ROS | TBD | TBD |
 |5 | TBD | Transformations | TBD | TBD |
 |6 | TBD | Projective Geometry  | TBD | TBD |
 |7-8 | TBD | MVG + BA | TBD | TBD |
-|9 | TBD | State Estimation (ST)  | TBD | TBD |
+|9 | TBD | State Estimation | TBD | TBD |
 |10| TBD | Visual Servoing | TBD | TBD |
-
-ST stands for Short assignment.
 
 * Note: Do not get intimidated by looking at the volume of the assignments, we have designed the schedule ensuring that you have enough time between sessions to solve each assignment.
 
@@ -96,6 +111,7 @@ TBD
 >Udit Singh Parihar <udit.singh@research.iiit.ac.in><br />
 * Rigid Body Transformations, Projective Geometry
 >AadilMehdi Sanchawala <aadilmehdi.s@students.iiit.ac.in><br />
+>Aryan Sakaria <aryan.sakaria@students.iiit.ac.in><br />
 * Camera Calibration, Multiview Geometry, Bundle Adjustment
 >Sai Shubodh <p.saishubodh@gmail.com><br />
 >RAHUL SAJNANI <rahul.sajnani@research.iiit.ac.in><br />
@@ -109,6 +125,7 @@ TBD
 > Viswanarayan <viswanarayanan.vijai@gmail.com><br />
 * Visual Servoing
 > Harish Y V S <harish.y@research.iiit.ac.in><br />
+> Pushkal <katarapushkal@gmail.com><br />
 * Reinforcement Learning
 >kaustubh mani <kaustubh3095@gmail.com><br />
 
