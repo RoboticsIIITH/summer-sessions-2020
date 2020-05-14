@@ -14,7 +14,7 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
     * [Quiz Schedule](#quiz-schedule)
   * [References](#references)
   * [Contact](#contact)
-
+  * [Notifications](#notifications)
 
 ## Where and When?
 * Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
@@ -144,4 +144,5 @@ TBD
 * Reinforcement Learning
 >kaustubh mani <kaustubh3095@gmail.com><br />
 
-
+## Notifications
+Announcements will be made through this repo's issues page, so please subscribe to the repo (by clicking the 'watch' button) to receive notifications or you can subscribe to [RSS feed](https://github.com/RoboticsIIITH/summer-sessions-2020/commits/master.atom) if you want to get notified the moment any material/assignment is uploaded.
