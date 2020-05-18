@@ -18,6 +18,9 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 
 ## Where and When?
 * Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
+###  Bad internet connection?
+* For those with bad internet connectivity, you can watch it later on [Microsoft Stream](https://web.microsoftstream.com/channel/3c70bd68-2579-4150-9134-839a8d8ee9a4) or [YouTube](https://www.youtube.com/playlist?list=PLi59bVTQX5Rpr4umjFfbXeWjfqBwMgLql). The videos will be available within 3 hours after the session has ended, contact the undersigned only if you aren't able to find the video in the playlist even after 3 hours. 
+
 
 ## Tentative Schedule
 
