@@ -28,8 +28,8 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 21/05  |  Deep Learning 1                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 22/05  |  Deep Learning 2                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 23/05  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-24/05  |  Deep Learning 4                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-25/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+25/05  |  Deep Learning 4                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+26/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 27/05  |  ROS                                                |  Udit           |  
 29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
 30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
@@ -38,17 +38,17 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 03/06  |  Multi-view Geometry 3                              | Shubodh,  Rahul |  
 04/06  |  Multi-view Geometry 4                              | Shubodh,  Rahul |  
 05/06  |  Multi-view Geometry 5                              | Shubodh,  Rahul |  
-07/06  |  State Estimation                                   | Abhinav         |  
+06/06  |  State Estimation                                   | Abhinav         |  
 09/06  |  SLAM Frontend, SOTA Methods                        | Prof Madhav, Udit, Shubodh |  
 10/06  |  SLAM Backend, Pose Graph Optimization              | Prof Madhav, Udit, Shubodh |  
-12/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  
-13/06  |  Motion Planning & Trajectory Generation 2          |  Josyula, Kaustab        |  
-14/06  |  Motion Planning & Trajectory Generation 3          |  Josyula, Kaustab        |  
-16/06  |  Dynamics and control  1                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
-17/06  |  Dynamics and control  2                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
-18/06  |  Dynamics and control  3                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
-19/06  |  Dynamics and control  4                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
-21/06  |  Visual Servoing 1                                  |  Harish, Pushkal                        |  
+11/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  
+12/06  |  Motion Planning & Trajectory Generation 2          |  Josyula, Kaustab        |  
+13/06  |  Motion Planning & Trajectory Generation 3          |  Josyula, Kaustab        |  
+15/06  |  Dynamics and control  1                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+16/06  |  Dynamics and control  2                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+17/06  |  Dynamics and control  3                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+18/06  |  Dynamics and control  4                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
+20/06  |  Visual Servoing 1                                  |  Harish, Pushkal                        |  
 22/06  |  Visual Servoing 2                                  |  Harish, Pushkal                        |  
 24/06  |  Reinforcement Learning                             |  Kaustubh                               |  
 
