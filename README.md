@@ -17,7 +17,8 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
   * [Notifications](#notifications)
 
 ## Where and When?
-* Microsoft Teams. Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes)
+* Microsoft Teams. 
+* Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes) unless it is explicitly mentioned in the table. (Only starting time is mentioned, it is of duration 1.5 hrs as usual)
 ###  Bad internet connection?
 * For those with bad internet connectivity, you can watch it later on [Microsoft Stream](https://web.microsoftstream.com/channel/3c70bd68-2579-4150-9134-839a8d8ee9a4) or [YouTube](https://www.youtube.com/playlist?list=PLi59bVTQX5Rpr4umjFfbXeWjfqBwMgLql). The videos will be available within 3 hours after the session has ended, contact the undersigned only if you aren't able to find the video in the playlist even after 3 hours. 
 
@@ -30,8 +31,8 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 19/05  |  Math review (Calculus & Optimization)              | Ayyappa         | [Ref: math slides](lecture-slides/maths/)
 21/05  |  Deep Learning 1                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 22/05  |  Deep Learning 2                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-23/05  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-25/05  |  Deep Learning 4                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+23/05 (11 am)  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+25/05 (11 am)  |  Deep Learning 4                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 26/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 27/05  |  ROS                                                |  Udit           |  
 29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
