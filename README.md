@@ -30,7 +30,7 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 23/05  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 24/05  |  Deep Learning 4                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 25/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-27/05  |  ROS                                                |  Udit           | | [ETH Course](https://rsl.ethz.ch/education-students/lectures/ros.html) and [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials) 
+27/05  |  ROS                                                |  Udit           |  
 29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
 30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
 01/06  |  Multi-view Geometry 1                              | Shubodh,  Rahul |  
