@@ -35,7 +35,7 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 25/05 (11 am)  |  Deep Learning 4 (1)                                   | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 25/05 (8pm)  |  Deep Learning 4 (2)                          | Abhinav |
 26/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-27/05  |  ROS                                                |  Udit           |  
+27/05  |  ROS                                                |  Udit           |  [Ref: ROS slides](lecture-slides/ros)
 29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
 30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
 01/06  |  Multi-view Geometry 1                              | Shubodh,  Rahul |  
