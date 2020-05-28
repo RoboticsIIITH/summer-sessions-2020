@@ -1,2 +1,0 @@
-learning_tf:tut1
--DCATKIN_DEVEL_PREFIX=/home/cair/Desktop/ss_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cair/Desktop/ss_ws/install -G Unix Makefiles
