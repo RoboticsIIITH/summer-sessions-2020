@@ -1,0 +1,8 @@
+prefix=/home/cair/Desktop/ss_ws/install
+
+Name: tut1
+Description: Description of tut1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
