@@ -1,0 +1,8 @@
+You don't need to study everything from these slides. Most of them have different notations and conventions so just rememeber to be careful with those.
+If you're watching the Stachniss Lectures then the Extrinsics&Intricsics slides is enough. 
+
+Relevant stuff from the other slides:
+1) Transformations.pdf : 11 - 43
+2) Pinhole_model.pdf : 17 - 21. You can check out the initial content for general knowledge
+3) Stachniss.pdf: Only the introduction for what are intrinsics and extrinsic parameters. Use these slides if you're studying the stachniss course
+4) 
