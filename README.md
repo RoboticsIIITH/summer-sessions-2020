@@ -40,8 +40,8 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
 01/06  |  Multi-view Geometry 1                              | Shubodh,  Rahul |  
 02/06  |  Multi-view Geometry 2                              | Shubodh,  Rahul |  
-03/06  |  Multi-view Geometry 3                              | Shubodh,  Rahul |  
-04/06  |  Multi-view Geometry 4                              | Shubodh,  Rahul |  
+03/06  (10:30 am)|  Multi-view Geometry 3                              | Shubodh,  Rahul |  
+04/06  (10:30 am)|  Multi-view Geometry 4                              | Shubodh,  Rahul |  
 05/06  |  Multi-view Geometry 5                              | Shubodh,  Rahul |  
 06/06  |  State Estimation                                   | Abhinav         |  
 09/06  |  SLAM Frontend, SOTA Methods                        | Prof Madhav, Udit, Shubodh |  
