@@ -31,19 +31,19 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 19/05  |  Math review (Calculus & Optimization)              | Ayyappa         | [Ref: math slides](lecture-slides/maths/)
 21/05  |  Deep Learning 1                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 22/05  |  Deep Learning 2                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-23/05 (11 am)  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-25/05 (11 am)  |  Deep Learning 4 (1)                                   | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
-25/05 (8pm)  |  Deep Learning 4 (2)                          | Abhinav |
+23/05  |  Deep Learning 3                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+25/05  |  Deep Learning 4 (1)                                   | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
+25/05  |  Deep Learning 4 (2)                          | Abhinav |
 26/05  |  Deep Learning 5                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
 27/05  |  ROS                                                |  Udit           |  [Ref: ROS slides](lecture-slides/ros)
 29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
 30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
 01/06  |  Multi-view Geometry 1                              | Shubodh,  Rahul |  [Reference](https://github.com/RoboticsIIITH/summer-sessions-2020/issues/20)
 02/06  |  Multi-view Geometry 2                              | Shubodh,  Rahul | ,, 
-03/06  (10:30 am)|  Multi-view Geometry 3                              | Shubodh,  Rahul | ,,
-04/06  (10:30 am)|  Multi-view Geometry 4                              | Shubodh,  Rahul | ,, 
+03/06  |  Multi-view Geometry 3                              | Shubodh,  Rahul | ,,
+04/06  |  Multi-view Geometry 4                              | Shubodh,  Rahul | ,, 
 05/06  |  Multi-view Geometry 5                              | Shubodh,  Rahul |  ,,
-06/06  |  State Estimation                                   | Abhinav         |  
+08/06  |  State Estimation                                   | Abhinav         |  
 09/06  |  SLAM Frontend, SOTA Methods                        | Prof Madhav, Udit, Shubodh |  
 10/06  |  SLAM Backend, Pose Graph Optimization              | Prof Madhav, Udit, Shubodh |  
 11/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  
