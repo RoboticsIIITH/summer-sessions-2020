@@ -17,10 +17,10 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
   * [Notifications](#notifications)
 
 ## Where and When?
-* Microsoft Teams. 
+* Microsoft Teams.
 * Timings: 3 pm - 4:30 pm (can extend by 30 mins for discussing assignments/quizzes) unless it is explicitly mentioned in the table. (Only starting time is mentioned, it is of duration 1.5 hrs as usual)
 ###  Bad internet connection?
-* For those with bad internet connectivity, you can watch it later on [Microsoft Stream](https://web.microsoftstream.com/channel/3c70bd68-2579-4150-9134-839a8d8ee9a4) or [YouTube](https://www.youtube.com/playlist?list=PLi59bVTQX5Rpr4umjFfbXeWjfqBwMgLql). The videos will be available within 3 hours after the session has ended, contact the undersigned only if you aren't able to find the video in the playlist even after 3 hours. 
+* For those with bad internet connectivity, you can watch it later on [Microsoft Stream](https://web.microsoftstream.com/channel/3c70bd68-2579-4150-9134-839a8d8ee9a4) or [YouTube](https://www.youtube.com/playlist?list=PLi59bVTQX5Rpr4umjFfbXeWjfqBwMgLql). The videos will be available within 3 hours after the session has ended, contact the undersigned only if you aren't able to find the video in the playlist even after 3 hours.
 
 
 ## Tentative Schedule
@@ -39,14 +39,14 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 29/05  |  Rigid Body Transformations & Projective Geometry 1 |  Aadil, Aryan   |  
 30/05  |  Rigid Body Transformations & Projective Geometry 2 |  Aadil, Aryan   |  
 01/06  |  Multi-view Geometry 1                              | Shubodh,  Rahul |  [Reference](https://github.com/RoboticsIIITH/summer-sessions-2020/issues/20)
-02/06  |  Multi-view Geometry 2                              | Shubodh,  Rahul | ,, 
+02/06  |  Multi-view Geometry 2                              | Shubodh,  Rahul | ,,
 03/06  |  Multi-view Geometry 3                              | Shubodh,  Rahul | ,,
-04/06  |  Multi-view Geometry 4                              | Shubodh,  Rahul | ,, 
+04/06  |  Multi-view Geometry 4                              | Shubodh,  Rahul | ,,
 05/06  |  Multi-view Geometry 5                              | Shubodh,  Rahul |  ,,
 08/06  |  State Estimation                                   | Abhinav         |  
 09/06  |  SLAM Frontend, SOTA Methods                        | Prof Madhav, Udit, Shubodh |  
 10/06  |  SLAM Backend, Pose Graph Optimization              | Prof Madhav, Udit, Shubodh |  
-11/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  
+11/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  [searching methods](lecture-slides/motion_planning)
 12/06  |  Motion Planning & Trajectory Generation 2          |  Josyula, Kaustab        |  
 13/06  |  Motion Planning & Trajectory Generation 3          |  Josyula, Kaustab        |  
 15/06  |  Dynamics and control  1                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
@@ -84,9 +84,9 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 
 ### Plan for assignments/quizzes
 #### Assignments
-* Note: Assignments and/or quizzes are not being held for every topic, check the below tables for more details. 
+* Note: Assignments and/or quizzes are not being held for every topic, check the below tables for more details.
 
-If an assignment is given for a particular concept, we have given a break of 1 day before next concept begins for solving this assignment. Also, the solutions to this assignment will be discussed at the end of next session, for example math review assignment will be discussed at the end of 3rd session (or sometimes at the beginning of the next session in which case the session will start early). But the discussion will be brief for about 30 minutes and you will not be able to follow if you haven't solved the assignment, so please solve it beforehand. 
+If an assignment is given for a particular concept, we have given a break of 1 day before next concept begins for solving this assignment. Also, the solutions to this assignment will be discussed at the end of next session, for example math review assignment will be discussed at the end of 3rd session (or sometimes at the beginning of the next session in which case the session will start early). But the discussion will be brief for about 30 minutes and you will not be able to follow if you haven't solved the assignment, so please solve it beforehand.
 
 The presenter will confirm the assignment discussion session timings for his specific assignment at the end of his sessions.
 #### Quizzes
@@ -112,8 +112,8 @@ Regarding quizzes, they will be at the end of a particular session itself to gau
 
 | Quiz No. |     Topic      |
 |:--------------:|:------------:|
-|1-4 | Deep Learning| 
-|5-6 | Transformations and Projective Geometry| 
+|1-4 | Deep Learning|
+|5-6 | Transformations and Projective Geometry|
 |7-8 | MVG|
 
 ## References
@@ -137,10 +137,10 @@ TBD
 >RAHUL SAJNANI <rahul.sajnani@research.iiit.ac.in><br />
 * State Estimation
 > Abhinav Gupta <abhinav.g@students.iiit.ac.in><br />
-* Motion Planning and Trajectory Generation	
+* Motion Planning and Trajectory Generation
 > Josyula Krishna <josyula008@gmail.com><br />
 > Kaustab Pal <kaustab21@gmail.com><br />
-* Dynamics and control	
+* Dynamics and control
 > Suraj <suraj2596@gmail.com><br />
 > Viswanarayan <viswanarayanan.vijai@gmail.com><br />
 * Visual Servoing
