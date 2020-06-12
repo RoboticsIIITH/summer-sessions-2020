@@ -47,7 +47,7 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 09/06  |  SLAM Frontend, SOTA Methods                        | Prof Madhav, Udit, Shubodh |  
 10/06  |  SLAM Backend, Pose Graph Optimization              | Prof Madhav, Udit, Shubodh |  
 11/06  |  Motion Planning & Trajectory Generation 1          |  Josyula, Kaustab        |  [searching methods](lecture-slides/motion_planning)
-12/06  |  Motion Planning & Trajectory Generation 2          |  Josyula, Kaustab        |  
+12/06  |  Motion Planning & Trajectory Generation 2          |  Josyula, Kaustab        |  [Slides & Papers](lecture-slides/motion_planning)
 13/06  |  Motion Planning & Trajectory Generation 3          |  Josyula, Kaustab        |  
 15/06  |  Dynamics and control  1                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
 16/06  |  Dynamics and control  2                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
