@@ -55,7 +55,7 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 18/06  |  Dynamics and control  4                            |  Prof Hari, Prof Spandan, Suraj, Viswa  |  
 20/06  |  Visual Servoing 1                                  |  Harish, Pushkal                        |  
 22/06  |  Visual Servoing 2                                  |  Harish, Pushkal                        |  
-24/06  |  Reinforcement Learning                             |  Kaustubh                               |  
+24/06  |  Reinforcement Learning                             |  kaustab, Kaustubh                      |  [Ref: RL slide](lecture-slides/Reinforcement_Learning)
 
 
 ## Topics
