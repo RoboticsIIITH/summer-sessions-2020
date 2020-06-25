@@ -25,8 +25,8 @@ Series of online lectures and hands-on tutorials organized to familiarize new la
 
 ## Tentative Schedule
 
- Dates |  Topics                                             |  Presenter       |  Slides         | Material
--------|-----------------------------------------------------|------------------|-----------------|----------
+ Dates |  Topics                                             |  Presenter       |  Slides         
+-------|-----------------------------------------------------|------------------|-----------------
 18/05  | Intro to sessions, Math review (LA)                 |  Ayyappa         | [Ref: math slides](lecture-slides/maths/)
 19/05  |  Math review (Calculus & Optimization)              | Ayyappa         | [Ref: math slides](lecture-slides/maths/)
 21/05  |  Deep Learning 1                                    | Shashank, Aadil |[Ref: DL slides](lecture-slides/deep_learning)
@@ -92,20 +92,20 @@ The presenter will confirm the assignment discussion session timings for his spe
 #### Quizzes
 Regarding quizzes, they will be at the end of a particular session itself to gauge how much you have learned during that session.
 
-
 ### Assignment Schedule
-| Assignment No. | Duration for solving |       Topic      |       File Link        | Date of discussion|
-|:--------------:|:------------:|:----------------:|:------------------:|:-------:|
-|1 | 19-20/05 | Linear Algebra & Calculus| TBD | 21/05 |
-|2 & 3| TBD | Deep Learning | TBD | TBD |
-|4 | TBD | ROS | TBD | TBD |
-|5 | TBD | Transformations | TBD | TBD |
-|6 | TBD | Projective Geometry  | TBD | TBD |
-|7-8 | TBD | MVG + BA | TBD | TBD |
-|9 | TBD | State Estimation | TBD | TBD |
-|10| TBD | Visual Servoing | TBD | TBD |
+| Assignment No. |       Topic      
+|:--------------:|:----------------:
+|1 | Linear Algebra & Calculus
+|2 & 3| Deep Learning 
+|4 | ROS 
+|5 | Transformations 
+|6 | Projective Geometry  
+|7-8 | MVG + BA 
+|9 | State Estimation 
+|10| Visual Servoing 
 
-* Note: Do not get intimidated by looking at the volume of the assignments, we have designed the schedule ensuring that you have enough time between sessions to solve each assignment.
+For more details like deadlines or link of assignments, check issues.
+
 
 ### Quiz Schedule
 (At the end of a particular session)
@@ -117,8 +117,7 @@ Regarding quizzes, they will be at the end of a particular session itself to gau
 |7-8 | MVG|
 
 ## References
-
-TBD
+Check issues for detailed reference list.
 
 ## Contact
 * General
