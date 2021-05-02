@@ -1,6 +1,8 @@
 # Summer Sessions 2020
-Series of online lectures and hands-on tutorials organized to familiarize new lab entrants with the fundamental areas of robotics research.
+Series of online lectures and hands-on tutorials organized to familiarize new lab entrants with the fundamental areas of robotics research.   
 
+**NOTE: For slides/notes/references of almost every topic, please check "[Issues](https://github.com/RoboticsIIITH/summer-sessions-2020/issues)". The name of the issue is usually in the format "Topic name - Resources", for example "ROS - resources". Please take a detailed look.**
+ 
 # Table Of Contents
 * [Summer Sessions 2020](#summer-sessions-2020)
   * [Where and When?](#where-and-when?)
